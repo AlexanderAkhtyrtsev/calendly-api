@@ -1,0 +1,19 @@
+{
+    "name": "alex-akhtyrtsev/calendly-api",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AlexAkhtyrtsev\\CalendlyApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Akhtyrtsev",
+            "email": "a.akhtyrtsev@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
